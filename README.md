@@ -1,5 +1,5 @@
 # Machine Learning For Genomics
-Collecting a list of open source machine learning projects solving genomic or molecular biology problems.
+Collecting a list of open source machine learning projects solving genomic, molecular, systems, or cell biology problems.
 
 ### Azimuth: intelligent selection of CRISPR/Cas9 guide strands
 #### Links
