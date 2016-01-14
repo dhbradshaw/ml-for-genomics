@@ -9,7 +9,7 @@ http://research.microsoft.com/en-us/projects/azimuth/
 
 https://github.com/MicrosoftResearch/Azimuth
 
-### CellProfiler: open-source cellular image analysis software. http://cellprofiler.org
+### CellProfiler: open-source cellular image analysis software.
 #### Links
 http://cellprofiler.org
 
