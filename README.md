@@ -9,6 +9,12 @@ http://research.microsoft.com/en-us/projects/azimuth/
 
 https://github.com/MicrosoftResearch/Azimuth
 
+### CellCognition: image analysis for fluorescence time-lapse microscopy
+#### Links
+https://github.com/CellCognition/cecog
+
+http://cellcognition.org/about
+
 ### CellProfiler: open-source cellular image analysis software.
 #### Links
 http://cellprofiler.org
