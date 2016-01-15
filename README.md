@@ -15,3 +15,9 @@ http://cellprofiler.org
 
 https://github.com/CellProfiler/CellProfiler
 
+DISIMRank: MATLAB Gaussian Process Transcription Factor Target Ranking Toolbox
+### Links
+https://github.com/SheffieldML/disimrank
+
+https://github.com/lawrennd/disimrank
+
