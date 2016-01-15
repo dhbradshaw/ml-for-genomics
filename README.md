@@ -1,6 +1,13 @@
 # Machine Learning For Genomics
 Collecting a list of open source machine learning projects solving genomic, molecular, systems, or cell biology problems.
 
+### Adam: genomics analysis platform using Apache Avro, Apache Spark and Parquet.
+#### Links
+https://github.com/bigdatagenomics/adam
+
+http://bdgenomics.org/
+
+
 ### Azimuth: intelligent selection of CRISPR/Cas9 guide strands
 #### Links
 http://biorxiv.org/content/early/2015/06/26/021568
