@@ -22,8 +22,12 @@ http://cellprofiler.org
 https://github.com/CellProfiler/CellProfiler
 
 ### DISIMRank: MATLAB Gaussian Process Transcription Factor Target Ranking Toolbox
-### Links
+#### Links
 https://github.com/SheffieldML/disimrank
 
 https://github.com/lawrennd/disimrank
+
+### VariantSpark: Apply Spark-based Machine Learning methods to whole-genome variant information 
+#### Links
+https://github.com/BauerLab/VariantSpark
 
