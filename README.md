@@ -16,7 +16,7 @@ http://research.microsoft.com/en-us/projects/azimuth/
 
 https://github.com/MicrosoftResearch/Azimuth
 
-### Basset: 
+### Basset: Deep convolutional neural networks for DNA sequence analysis
 #### Links
 https://github.com/davek44/Basset
 
