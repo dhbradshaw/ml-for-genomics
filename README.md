@@ -16,6 +16,12 @@ http://research.microsoft.com/en-us/projects/azimuth/
 
 https://github.com/MicrosoftResearch/Azimuth
 
+### Basset: 
+#### Links
+https://github.com/davek44/Basset
+
+http://biorxiv.org/content/biorxiv/early/2015/10/05/028399.full.pdf
+
 ### CellCognition: image analysis for fluorescence time-lapse microscopy
 #### Links
 https://github.com/CellCognition/cecog
