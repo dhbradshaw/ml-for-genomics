@@ -40,6 +40,10 @@ https://github.com/SheffieldML/disimrank
 
 https://github.com/lawrennd/disimrank
 
+### nnNorm
+#### Links
+https://www.bioconductor.org/packages/release/bioc/html/nnNorm.html
+
 ### VariantSpark: Apply Spark-based Machine Learning methods to whole-genome variant information 
 #### Links
 https://github.com/BauerLab/VariantSpark
