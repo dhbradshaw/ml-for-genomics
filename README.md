@@ -9,6 +9,8 @@ http://bdgenomics.org/
 
 
 ### Azimuth: intelligent selection of CRISPR/Cas9 guide strands
+#### ML Techniques
+Gradient-boosted regression trees
 #### Links
 http://biorxiv.org/content/early/2015/06/26/021568
 
